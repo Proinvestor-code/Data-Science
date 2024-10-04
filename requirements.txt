@@ -1,5 +1,11 @@
+#py -m pip install -r requirements.txt
+
 ipykernel
 python-dotenv
 pandas
 scikit-learn
 matplotlib
+seaborn
+#laUtilities
+#statsmodels.api
+wget
